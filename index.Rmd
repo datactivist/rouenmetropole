@@ -114,8 +114,6 @@ class: inverse, center, middle
 
 ---
 
-# test
-
 ![](https://datactivist.coop/lewagon/img/snapshot_off.png)
 
 
