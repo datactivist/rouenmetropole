@@ -296,7 +296,6 @@ class: inverse, center, middle
 
 # Les bénéfices de l'ouverture des données
 
-
 ---
 ### Valoriser le travail d’une administration ou d’une entreprise
 
@@ -320,22 +319,6 @@ Le département de la Gironde a produit un travail de visualisation et d'explica
 ]
 
 ---
-### Renforcer les principes du service public
-
-
-#### Continuité : des données accessibles en permanence et mises à jour
-
-
-#### Adaptabilité : des données adaptées à la demande (formats, nature, services)
-
----
-
-
-#### Egalité : des données accessibles à tous, sans restriction ni discrimination			
-				
-			
-
----
 ### Faire gagner du temps aux différents services
 
 Répondre moins souvent aux demandes individuelles du fait de la publicité des données	: 
@@ -349,13 +332,6 @@ Exemple des vélos en libre service à New York : confronter modèles et usages
 
 
 ![](img/citybike$.png)
-
----
-### Questionner des politiques publiques
-
-Exemple des dataviz sur les vélos en libre service				
-
-[![](img/bikeshare.png)](https://bikesharemap.com/)
 
 ---
 ### Améliorer la qualité des données
@@ -436,23 +412,16 @@ Exemple de CartoQuartiers à Nantes
 ### Pour être plus forts ensemble, et plus souverains sur nos données
 
 ![](img/openagenda.png)
----
-### Pour la data science et les savoirs ouverts
-
-Exemple autour de la base de données sur les accidents de la route
-				
-![](img/paris.png)		
----
-### Pour la data science et les savoirs ouverts  		
-
-Exemple autour de la base de données sur les accidents de la route
-
-![](img/bretagne.png)
 
 ---
 ### Pour le data journalisme
 
-[![](img/datajourno.png)](https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html)
+![](https://miro.medium.com/max/1244/1*x5WW0BwsRoLczPGMfi_mqw.png)
+
+---
+### Pour le data journalisme
+
+![](https://miro.medium.com/max/1400/1*U5tWk8ZwlxqbsnuoWQgUUw.png)
 
 ---
 ### Pour permettre le développement de  nouveaux services
@@ -472,9 +441,24 @@ Exemple autour de la base de données sur les accidents de la route
 [![](img/handisco.png)](http://handisco.com)
 
 ---
+### Pour permettre le développement de nouveaux services
+
+[![](img/caresteouvert.png)](https://caresteouvert.fr/@49.441282,1.090981,12.90)
+
+---
+### Pour permettre le développement de nouveaux services
+
+![](img/fraisetlocal.png)
+---
 ### Pour améliorer l’efficience des services 
 
 ![](img/tfl.png)
+---
+### Les bénéfices de l'open data .red[en résumé]
+
+![](img/opendatawheel.png)
+
+.footnote[source : [GovLab](https://thegovlab.org/static/files/publications/open-data-impact-key-findings.pdf)]
 
 ---
 class: inverse, center, middle
